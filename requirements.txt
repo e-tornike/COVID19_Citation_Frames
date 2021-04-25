@@ -1,0 +1,14 @@
+jsonlines
+tqdm
+pandas
+scikit-learn
+sentence_splitter
+torch
+torchvision
+numpy
+matplotlib
+py2neo
+pyarrow==0.16.0
+pytorch-model-summary
+git+git://github.com/huggingface/nlp
+git+git://github.com/huggingface/transformers
